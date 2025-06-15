@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Personal
+Template Name: Betonni
 Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-Author: BootstrapMade.com
+Author: Betonni
 License: https://bootstrapmade.com/license/
